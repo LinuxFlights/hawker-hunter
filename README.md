@@ -1,4 +1,4 @@
-# hawker-hunter
+# Hawker Hunter
 Hawker Hunter aircraft addon for Flightgear.
 
 
@@ -7,3 +7,6 @@ Hawker Hunter aircraft addon for Flightgear.
 - Flight Dynamic Model
 - Initial texturing (interior/exterior (engine fans, etc))
 - Liveries
+
+## Resources
+- https://www.baesystems.com/en-uk/heritage/hawker-hunter
