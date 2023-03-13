@@ -33,3 +33,20 @@ Hawker Hunter (WB188) taxying for take off with Neville Duke at the controls
 
 ![image](https://user-images.githubusercontent.com/83363242/224657855-00443b1e-29a4-45f0-975f-32fc38f4cc39.png)
 Hawker Hunter air to air
+
+![image](https://user-images.githubusercontent.com/83363242/224658220-b81d0486-c16a-4f82-89b0-cf76a86360c2.png)
+Hawker Hunter GA11 (WT804) on apron
+
+![image](https://user-images.githubusercontent.com/83363242/224658293-326d9f64-77cf-4d88-9c2e-010c993bdcf7.png)
+Hawker Hunter F6 RAF (XG232) in 1984
+
+## Information
+## Specs
+| Section | Data |
+| :--- | :----: |
+| Powerplant | 1x Rolls-Royce Avon 2207 turbojet, 10,145 lbf (45.13 kN) |
+| Span | 33 ft 8 in (10.16 m) |
+| Maximum Weight | Loaded - 17,750 lb (8,050 kg) / Take-off - 24,600 lb (11,158 kg) |
+| Capacity | One pilot |
+| Maximum Speed | Mach 0.94, 620 kn (715 mph, 1,150 km/h) at sea level |
+| Maximum Range | Combat - 385 nmi (445 mi, 715 km) / Ferry - 1,650 nmi (1,900 mi, 3,060 km) with external fuel tanks |
