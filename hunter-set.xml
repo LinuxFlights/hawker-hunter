@@ -1,0 +1,9 @@
+<airplane mass="14122">
+	<approach speed="135" aoa="" fuel="">
+		<control-setting axis="" value="" /> <!-- throttle -->
+		<control-setting axis="" value="" /> <!-- flaps -->
+		<control-setting axis="" value="" /> <!-- gear-down -->
+		<control-setting axis="" value="" /> <!-- speedbrake -->
+	</approach>
+
+</airplane>
